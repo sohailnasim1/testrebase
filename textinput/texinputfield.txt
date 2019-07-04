@@ -5,3 +5,5 @@ third line
 5th line - Will commit this
 6th line - Will commit this
 7th line - Will commit this
+
+8th line - Will not commit this
