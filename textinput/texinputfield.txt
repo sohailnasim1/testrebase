@@ -1,0 +1,9 @@
+first line
+2nd line will commit this - modified
+third line
+4th line WIP commit
+5th line - Will commit this
+6th line - Will commit this
+7th line - Will commit this
+
+8th line - Will not commit this
