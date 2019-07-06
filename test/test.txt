@@ -1,1 +1,3 @@
-a - test
+added before rebase with master
+change before rebase - test
+added before rebase with master
