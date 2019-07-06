@@ -1,3 +1,4 @@
 added before rebase with master
-change before rebase - test
+hello a - test
+me doing something
 added before rebase with master
