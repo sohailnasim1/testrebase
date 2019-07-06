@@ -1,1 +1,4 @@
-a - test
+added before rebase with master
+hello a - test
+me doing something
+added before rebase with master
